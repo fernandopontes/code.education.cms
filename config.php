@@ -7,8 +7,8 @@ $config['erro-404'] = "404.php";
 
 $config['db-host'] = 'localhost';
 $config['db-nome'] = 'code_foundation';
-$config['db-user'] = 'root';
-$config['db-pass'] = 'root';
+$config['db-user'] = 'fernando';
+$config['db-pass'] = '123456';
 
 // Dados de acesso padrão para o painel administrativo
 

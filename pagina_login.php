@@ -1,3 +1,7 @@
+<?php
+if(!isset($_SESSION['logado']))
+{
+?>
 <div class="container container-conteudo">
 
     <div class="blog-header">
@@ -49,6 +53,8 @@
     </div><!-- /.row -->
 
 </div><!-- /.container -->
-
-
+<?php
+} else {
+    include_once 'pagina_admin.php';
+}
 

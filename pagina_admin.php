@@ -1,5 +1,6 @@
 <?php
-$status_login = verifica_login($conexao);
+if(!isset($_SESSION['logado']))
+    $status_login = verifica_login($conexao);
 
 if($status_login == 1 || $_SESSION['logado'] == true)
 {

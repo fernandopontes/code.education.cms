@@ -7,6 +7,7 @@ $consulta->bindParam(':email', $_SESSION['email_user'], PDO::PARAM_STR);
 $consulta->execute();
 
 session_destroy();
+unset($_SESSION['logado']);
 
 include_once 'pagina_login.php';
 ?>
