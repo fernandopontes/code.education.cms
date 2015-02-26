@@ -1,0 +1,3 @@
+[26-Feb-2015 10:35:53 America/Recife] PHP Notice:  Undefined variable: status_login in /Users/fernandopontes/Sites/dev/php/cursophp/php/cms/pagina_admin.php on line 5
+[26-Feb-2015 10:36:02 America/Recife] PHP Notice:  Undefined variable: status_login in /Users/fernandopontes/Sites/dev/php/cursophp/php/cms/pagina_admin.php on line 5
+[26-Feb-2015 10:36:13 America/Recife] PHP Notice:  Undefined variable: status_login in /Users/fernandopontes/Sites/dev/php/cursophp/php/cms/pagina_admin.php on line 5
